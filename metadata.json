@@ -1,0 +1,6 @@
+{
+  "name": "ClustIQ - ML & AI Strategic Segmentation",
+  "description": "Plataforma analítica e interactiva de Machine Learning (Clustering K-Means/K-Medoids) y Perfilamiento Estratégico con Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
